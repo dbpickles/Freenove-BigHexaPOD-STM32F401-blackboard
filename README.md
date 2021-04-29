@@ -1,4 +1,4 @@
-# Freenove  Big_Hexa_POD STM32F407
+# Freenove  BigHexaPOD-STM32F4
 
 The project is to replace the Raspberry Pi with a STM32 MCU and PIXY2 camera. 
 
